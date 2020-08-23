@@ -53,7 +53,7 @@ if VJExists == true then
 		VJ.AddNPC("Shock Trooper","npc_vj_hlrof_shocktrooper_hd",vCat)
 
 		-- Sven Co-Op
-		VJ.AddNPC("Baby Gargantua","npc_vj_hlrsv_babygarg_hd",vCat)
+		VJ.AddNPC("Gargantua (Baby)","npc_vj_hlrsv_babygarg_hd",vCat)
 	
 -- !!!!!! DON'T TOUCH ANYTHING BELOW THIS !!!!!! -------------------------------------------------------------------------------------------------------------------------
 	AddCSLuaFile(AutorunFile)
